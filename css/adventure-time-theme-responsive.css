@@ -1,0 +1,14 @@
+/*Inserta tu Codigo Responsive*/
+@media (min-width: 768px) { 
+	.form-horizontal .control-label {
+    	text-align: left;
+     }
+}
+
+@media(max-width: 800px){
+	.photo{
+		width: 100%;
+     	margin-bottom: 20px;
+     	margin-left: 20px;
+     }
+}
